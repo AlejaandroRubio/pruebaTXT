@@ -4,3 +4,6 @@ git push
 
 git pull 
 git checkout
+
+
+hello amix
